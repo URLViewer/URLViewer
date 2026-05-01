@@ -1,0 +1,9 @@
+[submodule "UrlViewer-App"]
+	path = UrlViewer-App
+	url = https://github.com/URLViewer/UrlViewer-App.git
+[submodule "UrlViewer-SDK"]
+	path = UrlViewer-SDK
+	url = https://github.com/URLViewer/UrlViewer-SDK.git
+[submodule "UrlViewer-Plugins"]
+	path = UrlViewer-Plugins
+	url = https://github.com/URLViewer/UrlViewer-Plugins.git
